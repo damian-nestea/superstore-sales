@@ -21,3 +21,13 @@ Este projeto buscará responder às seguintes perguntas de negócio:
 
 ## Processo de ETL
 O processo de Extração, Transformação e Carregamento foi detalhado [aqui](./docs/ETL_details.md).
+
+## Análise Inicial dos Dados
+Para familiarização com o *dataset*, realizamos uma análise rápida de cada variável. Uma forma prática foi utilizar o filtro da planilha, que oferece uma visão geral dos valores em cada coluna.
+
+Também realizamos uma análise univariada da coluna *Sales*, que consideramos fundamental para obter informações relevantes. Os resultados foram os seguintes:
+
+![Overview do dataset](./images/analyse/08_overview_dataset.png)
+
+Veja como esse processo foi implementado [aqui](./docs/Dataset_overview.md).
+
