@@ -1,3 +1,5 @@
+[< INÍCIO](../README.md)
+
 # Pergunta de Negócio 1: Qual região, estado e cidade apresentam o maior volume de vendas?
 
 Para responder a esta pergunta, **temos em consideração as variáveis relacionadas à localização da venda e à variável do valor da venda**. Utilizamos também algumas ferramentas da estatística, como tabelas de frequência (com tabelas dinâmicas), gráficos de barras, gráficos de pizza, gráficos de linha e mapa de calor.
