@@ -41,7 +41,6 @@ Veja como esse processo foi implementado [aqui](./docs/Dataset_overview.md).
 Através do EDA, foi possível chegar a algumas descobertas do dataset. Essas descobertas podem ser valiosas para a equipe comercial da empresa. As respostas às Perguntas de Negócio citadas acima são:
 
 ### PN 1:
-
 Para realizar o mapeamento da localização das vendas da companhia focamos nas variáveis *Region*, *State* e *City* (Região, Estado e Cidade respectivamente). Assim tivemos os seguintes resultados:
 
 #### Vendas por Região
@@ -106,3 +105,55 @@ Também em 2018, as cidades destacadas de cada região foram:
 
 ![Vendas por Estado](./images/analyse/pn1/18_GraficoTop3_CidadesXVendasXRegiao_2018.png)
 
+Confira a análise mais detalhada [AQUI](./docs/PN1.md).
+
+### PN 2:
+Para poder identificar a **Categoria** e **Subcategoria** com a melhor performance em geração de receita de vendas analisamos as variáveis *Category* e *Sub-Category*. Assim encontramos a seguinte informação:
+
+#### Vendas por Categoria
+A categoria que mais se destaca em receita de vendas é **Technology**, que, entre 2015 e 2018, gerou 36,6% do valor total. No último ano (2018), esse percentual aumentou para 37,3%. Essa categoria também possui o maior *Ticket Médio* entre as três: US$ 440,87 por produto.
+
+##### Receita de Vendas por Categoria (2015 a 2018)
+![Vendas por Categoria](./images/analyse/pn2/01_tabFrequencia_VendasXCategoria_Total.png)
+
+![Vendas por Categoria](./images/analyse/pn2/02_grafico_VendasXCategoria_Total.png)
+
+##### Receita de Vendas por Categoria em 2018
+![Vendas por Categoria](./images/analyse/pn2/03_tabFrequencia_VendasXCategoria_2018.png)
+
+![Vendas por Categoria](./images/analyse/pn2/04_grafico_VendasXCategoria_2018.png)
+
+#### Vendas por Subcategoria
+Duas subcategorias se destacam em receita de vendas no período de 2015 a 2018: **Phones** (14,5%) e **Chairs** (14,3%). Ambas mantêm a liderança ao analisarmos apenas 2018, com **Phones** representando 14,5% e **Chairs**, 12,9%.
+
+##### Receita de Vendas por Subcategoria de 2015 a 2018
+![Vendas por Subcategoria](./images/analyse/pn2/07_VendasXSubcategoria_Total.png)
+
+##### Receita de Vendas por Subcategoria em 2018
+![Vendas por Subcategoria](./images/analyse/pn2/09_VendasXSubcategoria_2018.png)
+
+#### Vendas das Subcategorias por Categoria
+Para orientar as equipes responsáveis por cada categoria, analisamos a receita de 2018 por subcategoria. As subcategorias com a maior receita de vendas para cada categoria são:
+
+**Technology:** *Phones*, *Copiers*, *Accessories* e *Machines*
+
+**Office Supplies:** *Binders*, *Storage* e *Appliances*
+
+**Furniture:** *Chairs* e *Tables*
+
+![Vendas por Subcategoria por Categoria](./images/analyse/pn2/12_Grafico_VendasXCategoriasXSubcategorias_2018.png)
+
+### Vendas das Subcategorias por Região
+Com o intuito de guiar os líderes regionais, analisamos a receita de 2018 por subcategoria em cada região. As subcategorias com a maior receita de vendas para cada região são:
+
+**EAST:** *Phones*, *Chairs* e *Copiers*
+
+**WEST:** *Copiers*, *Binders* e *Accessories*
+
+**CENTRAL:** *Phones*, *Chairs* e *Binders*
+
+**SOUTH:** *Phones*, *Chairs* e *Tables*
+
+![Vendas por Subcategoria por Região](./images/analyse/pn2/14_Grafico_Top3SubcategoriasXRegiao_2018.png)
+
+Confira a análise mais detalhada [AQUI](./docs/PN2.md).
