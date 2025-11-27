@@ -159,6 +159,7 @@ Com o intuito de guiar os líderes regionais, analisamos a receita de 2018 por s
 Confira a análise mais detalhada [AQUI](./docs/PN2.md).
 
 ### [PN 3](./docs/PN3.md):
+Para responder a esta pergunta, analisamos a variável Product_Name junto com a variável de valor da venda, para assim identificarmos os produtos mais vendidos na companhia.
 
 #### Vendas por Produto
 ##### Top 20 Produtos com maior Receita de Vendas (a nível nacional) de 2015 a 2018
