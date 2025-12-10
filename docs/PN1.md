@@ -63,7 +63,7 @@ A seguir, analisamos o **Top 3 dos estados com maior receita de vendas por regi�
 
 ![Vendas por Estado TOP 3](../images/analyse/pn1/12_GraficoTop3_EstadosXVendasXRegiao_2018.png)
 
-- Podemos concluir que 2 dos 5 estados com maior receita encontram-se na região **West** (**California** e **Washington**), enquanto outros 2 se encontram na região **East** (**New York** e **Pennsylvania**). O estado do **Texas**, que faz parte desse Top 5, encontra-se na região **Central**.
+- Podemos concluir que 2 dos 5 estados com maior receita encontram-se na região **West** (**California** com 58,3% de receita de vendas dentro da região e **Washington** com 26,4%), enquanto outros 2 se encontram na região **East** (**New York** com 44,6% de receita de vendas da região e **Pennsylvania** com 20,3%). O estado do **Texas**, que faz parte desse Top 5, encontra-se na região **Central** e conta com 30,3% da receita de vendas dessa região.
 - Na região **West**, é visível que os estados da **California** e **Washington** alavancam o resultado da região. O mesmo acontece na região **East** com os estados de **New York** e **Pennsylvania**.
 
 
@@ -76,14 +76,14 @@ Na seguinte tabela, podemos ver o <u>Top 20 das cidades com maior receita de ven
 
 ![Vendas por Cidade](../images/analyse/pn1/14_Grafico_Top10_CidadesXVendas_Total.png)
 
-Destacamos principalmente as primeiras 6 cidades (**New York City**, **Los Angeles**, **Seattle**, **San Francisco**, **Philadelphia** e **Houston**), que proporcionam 69,9% da receita de vendas do total no Top 20 da companhia.
+Destacamos principalmente as primeiras 6 cidades (**New York City**, **Los Angeles**, **Seattle**, **San Francisco**, **Philadelphia** e **Houston**), que proporcionam 36,4% da receita de vendas da companhia.
 
 #### Top 20 Cidades com maior Receita de Vendas em 2018
 ![Vendas por Cidade](../images/analyse/pn1/15_Top20_CidadesXVendas_2018.png)
 
 ![Vendas por Cidade](../images/analyse/pn1/16_Grafico_Top10_CidadesXVendas_2018.png)
 
-Também analisamos os dados do Top 20 no ano de 2018, observando o crescimento no ranking das cidades de **Seattle** e **Philadelphia** quando comparado com o período completo de 2015 a 2018.
+Também analisamos os dados do Top 20 no ano de 2018, observando o crescimento no ranking das cidades de **Seattle** e **Philadelphia** quando comparado com o período completo de 2015 a 2018. Neste período observamos que *as 7 primeiras cidades correspondem a 41,9% da receita total de vendas da empresa*.
 
 #### Top 3 Cidades com maior Receita de Vendas por Região em 2018
 ![Vendas por Cidade](../images/analyse/pn1/17_Top3_CidadesXVendasXRegiao_2018.png)
@@ -91,10 +91,10 @@ Também analisamos os dados do Top 20 no ano de 2018, observando o crescimento n
 ![Vendas por Cidade](../images/analyse/pn1/18_GraficoTop3_CidadesXVendasXRegiao_2018.png)
 
 Quando analisamos as cidades com maior receita de vendas por cada região em 2018, encontramos o seguinte:
-- **WEST:** As cidades de **Seattle**, **Los Angeles** e **San Francisco** alavancam o resultado do estado em proporções similares.
-- **EAST:** A cidade de **New York City** é a que mais proporciona receita de vendas, por uma grande margem, quando comparada com as outras cidades da região. **Philadelphia** (2ª no ranking) ainda tem um valor alto de receita de vendas em comparação com as cidades do país.
-- **CENTRAL:** As 3 primeiras cidades do ranking (**Houston**, **Chicago** e **Detroit**) têm uma contribuição similar à receita da região.
-- **SOUTH:** A cidade de **Burlington** na **North Carolina** é a cidade com maior receita de vendas da região, seguida por **Jacksonville** na **Florida** e **Columbus** na **Georgia**. As 3 cidades aparecem no Top 20 nacional de cidades com maior receita de vendas em 2018.
+- **WEST:** As cidades de **Seattle**, **Los Angeles** e **San Francisco** alavancam o resultado do estado em proporções similares. As 3 geram 57,3% da receita total de vendas da região.
+- **EAST:** A cidade de **New York City** é a que mais proporciona receita de vendas, por uma grande margem, quando comparada com as outras cidades da região, gerando 41,3% da receita de vendas. **Philadelphia** (2ª no ranking) ainda tem um valor alto de receita de vendas em comparação com as cidades do país, gerando 19,8% da receita de vendas da região.
+- **CENTRAL:** As 3 primeiras cidades do ranking (**Houston**, **Chicago** e **Detroit**) têm uma contribuição similar à receita da região. As 3 geram 31,1% da receita de vendas da região.
+- **SOUTH:** A cidade de **Burlington** na **North Carolina** é a cidade com maior receita de vendas da região, seguida por **Jacksonville** na **Florida** e **Columbus** na **Georgia**. As 3 cidades aparecem no Top 20 nacional de cidades com maior receita de vendas em 2018 e juntas geram 23,3% da receita de vendas da região.
 
 ## Conclusões:
 ### Vendas por Região

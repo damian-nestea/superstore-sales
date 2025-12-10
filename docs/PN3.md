@@ -14,7 +14,7 @@ Em primeiro lugar, analisamos os produtos que geraram maior receita de vendas de
 ![Vendas por Produto](../images/analyse/pn3/02_Grafico_Top5_ProdutosMaiorReceitaVendas_Total.png)
 
 
-O produto que mais receita gerou no período foi o *Canon imageCLASS 2200 Advanced Copier*, que pertence à subcategoria **Copiers**, com um valor superior a 60 mil dólares. Atrás deste produto encontram-se três produtos acima dos 20 mil dólares de receita gerada: *Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind*, *Cisco TelePresence System EX90 Videoconferencing Unit* e *HON 5400 Series Task Chairs for Big and Tall*. Os quatro produtos mencionados totalizam um valor superior a 133 mil dólares. Vale destacar que dois deles pertencem à categoria **Technology**, que é a categoria com maior receita de vendas gerada na companhia.
+O produto que mais receita gerou no período foi o *Canon imageCLASS 2200 Advanced Copier*, que pertence à subcategoria **Copiers**, com um valor superior a 60 mil dólares. Atrás deste produto encontram-se três produtos acima dos 20 mil dólares de receita gerada: *Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind*, *Cisco TelePresence System EX90 Videoconferencing Unit* e *HON 5400 Series Task Chairs for Big and Tall*. Os quatro produtos mencionados totalizam um valor superior a 133 mil dólares. Vale destacar que dois deles pertencem à categoria **Technology**, que é a categoria com maior receita de vendas gerada na companhia. A receita de vendas destes 20 produtos correspondem a 17,2% da receita de vendas total da companhia.
 
 A receita de vendas por produto também foi analisada para o ano de 2018. Obtivemos os seguintes resultados:
 
@@ -23,7 +23,7 @@ A receita de vendas por produto também foi analisada para o ano de 2018. Obtive
 
 ![Vendas por Produto](../images/analyse/pn3/04_Grafico_Top5_ProdutosMaiorReceitaVendas_2018.png)
 
-O produto com maior receita de vendas foi o *Canon imageCLASS 2200 Advanced Copier* (Copiers). Destacamos também no Top 5 os produtos *Martin Yale Chadless Opener Electric Letter Opener* (Office Supplies), *GBC DocuBind TL300 Electric Binding System* (Office Supplies), *Hewlett Packard LaserJet 3310 Copier* (Copiers) e *Samsung Galaxy Mega 6.3* (Phones). Como podemos observar, três desses produtos pertencem à categoria **Technology**, enquanto os outros dois pertencem à categoria **Office Supplies**.
+O produto com maior receita de vendas foi o *Canon imageCLASS 2200 Advanced Copier* (Copiers). Destacamos também no Top 5 os produtos *Martin Yale Chadless Opener Electric Letter Opener* (Office Supplies), *GBC DocuBind TL300 Electric Binding System* (Office Supplies), *Hewlett Packard LaserJet 3310 Copier* (Copiers) e *Samsung Galaxy Mega 6.3* (Phones). Como podemos observar, três desses produtos pertencem à categoria **Technology**, enquanto os outros dois pertencem à categoria **Office Supplies**. A receita de vendas destes 20 produtos equivalem a 22,0% da receita de vendas total da companhia em 2018.
 
 Neste levantamento, podemos também concluir que os produtos com maior receita de vendas têm um *Ticket Médio* alto, com “poucas” vendas, porém com valores altos de receita.
 
@@ -52,13 +52,13 @@ Para orientar a equipe comercial de cada região, destacamos os produtos mais ve
 
 ![Vendas por Produto](../images/analyse/pn3/10_Grafico_Top3_ProdutosMaiorReceitaVendasXRegiao_2018.png)
 
-**EAST:** O produto com maior receita de vendas gerada foi *Canon imageCLASS 2200 Advanced Copier*, da categoria **Technology**. 
+**WEST:** A maior receita foi gerada também pela *Canon imageCLASS 2200 Advanced Copier*, da categoria **Technology**. Este produto gerou 5,6% da receita de vendas total da companhia nesta região.
 
-**WEST:** A maior receita foi gerada também pela *Canon imageCLASS 2200 Advanced Copier*, da categoria **Technology**.
+**EAST:** O produto com maior receita de vendas gerada foi *Canon imageCLASS 2200 Advanced Copier*, da categoria **Technology**. Este produto gerou 10,3% da receita de vendas na região.
 
-**SOUTH:** O produto *Cubify CubeX 3D Printer Triple Head Print*, da categoria **Technology**, obteve a maior receita de vendas da região.
+**CENTRAL:** O produto com maior receita de vendas foi *GBC DocuBind P400 Electric Binding System*, da categoria **Office Supplies**. Este produto gerou 3,8% da receita de vendas nesta região.
 
-**CENTRAL:** O produto com maior receita de vendas foi *GBC DocuBind P400 Electric Binding System*, da categoria **Office Supplies**.
+**SOUTH:** O produto *Cubify CubeX 3D Printer Triple Head Print*, da categoria **Technology**, obteve a maior receita de vendas da região, gerando 6,5% da receita total de vendas da companhia nesta região.
 
 Podemos observar no levantamento como a categoria **Technology** se destaca principalmente em três das quatro regiões (**East**, **West** e **South**, com dois produtos no Top 3). Por outro lado, dois produtos do Top 3 na região **Central** pertencem à categoria **Office Supplies**.
 

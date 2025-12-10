@@ -93,11 +93,11 @@ Ao analisarmos as duas variáveis em 2018, considerando apenas subcategorias com
 
 ![Vendas por Subcategoria por Categoria](../images/analyse/pn2/12_Grafico_VendasXCategoriasXSubcategorias_2018.png)
 
-Na categoria **Technology**, destacam-se as subcategorias *Phones*, *Copiers*, *Accessories* e *Machines*.
+Na categoria **Technology**, destacam-se as subcategorias *Phones*, *Copiers*, *Accessories* e *Machines*. *Phones* gerou 38,9% da receita de vendas da categoria. 
 
-Em **Office Supplies**, as subcategorias com maior receita foram *Binders* e *Storage*, seguidas por *Appliances*.
+Em **Office Supplies**, as subcategorias com maior receita foram *Binders* e *Storage*, seguidas por *Appliances*. *Binders* e *Storage* geraram 29,8% e 28,3% da receita de vendas da categoria, respectivamente.
 
-Em **Furniture**, destacam-se *Chairs* e *Tables*.
+Em **Furniture**, destacam-se *Chairs* e *Tables*. *Chairs* gerou 43,9% da receita de vendas da categoria no período.
 
 
 ## Análise das Vendas de Subcategorias por Região
@@ -109,13 +109,13 @@ Com o objetivo de orientar a equipe de vendas de cada região, analisamos a rece
 
 ![Vendas por Subcategoria por Região](../images/analyse/pn2/14_Grafico_Top3SubcategoriasXRegiao_2018.png)
 
-**EAST:** Se destacaram *Phones*, *Chairs* e *Copiers*
+**WEST:** A maior receita de vendas foi gerada por *Copiers*, *Binders* e *Accessories*. As 3 equivalem a 32,9% da receita de vendas da região em 2018.
 
-**WEST:** A maior receita de vendas foi gerada por *Copiers*, *Binders* e *Accessories*
+**EAST:** Se destacaram *Phones*, *Chairs* e *Copiers*. As 3 geraram 43,6% da receita de vendas nesta região.
 
-**CENTRAL:** Os destaques da região foram *Phones*, *Chairs* e *Binders*
+**CENTRAL:** Os destaques da região foram *Phones*, *Chairs* e *Binders*. Juntas geraram 46,3% da receita de vendas no período.
 
-**SOUTH:** Se destacaram *Phones*, *Chairs* e *Tables*
+**SOUTH:** Se destacaram *Phones*, *Chairs* e *Tables*. As 3 subcategorias geraram 41,3% da receita de vendas nesta região.
 
 ## Conclusões
 
