@@ -226,8 +226,6 @@ Foram identificados os produtos com maior receita de vendas em cada região no a
 - O produto com maior receita de vendas na região **CENTRAL** foi o *GBC DocuBind P400 Electric Binding System*, da categoria **Office Supplies**.
 
 Confira a análise mais detalhada [AQUI](./docs/PN3.md).
-<<<<<<< HEAD
-=======
 
 ### [PN 4](./docs/PN4.md):
 
@@ -273,4 +271,5 @@ O segmento de clientes com maior receita de vendas gerada em cada região foi:
 - **EAST**: **Consumer** com **45,0%** da receita total gerada no período.
 - **CENTRAL**: **Consumer** com **47,8%** da receita total gerada no período.
 - **SOUTH**: **Consumer** com **49,5%** da receita total gerada no período.
->>>>>>> 5b2ee83 (Adição de resposta para PN4 ao readme)
+
+Confira a análise mais detalhada [AQUI](./docs/PN4.md).
