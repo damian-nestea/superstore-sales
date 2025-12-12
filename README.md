@@ -226,3 +226,51 @@ Foram identificados os produtos com maior receita de vendas em cada região no a
 - O produto com maior receita de vendas na região **CENTRAL** foi o *GBC DocuBind P400 Electric Binding System*, da categoria **Office Supplies**.
 
 Confira a análise mais detalhada [AQUI](./docs/PN3.md).
+<<<<<<< HEAD
+=======
+
+### [PN 4](./docs/PN4.md):
+
+Realizamos análises com o objetivo de identificar o segmento de clientes com maior geração de vendas para a companhia. Assim como nas análises anteriores, também buscamos identificar os segmentos mais rentáveis em cada ano, categoria de produto e região de venda. Os resultados são os seguintes:
+
+#### Análise de Vendas por Segmento de Cliente
+##### Vendas por Segmento de Cliente de 2015 a 2018
+![Vendas por Segmento de Clientes](./images/analyse/pn4/01_VendasXSegmento_Total.png)
+
+Ao observar o comportamento das vendas por segmento de cliente de 2015 a 2018, obtemos que:
+
+- O segmento com maior volume de vendas é **Consumer**, com **52,1%** das vendas, que geraram **50,8%** da receita total da companhia no período.
+
+##### Vendas por Segmento de Cliente em 2018
+![Vendas por Segmento de Clientes](./images/analyse/pn4/04_VendasXSegmento_2018.png)
+
+Quando analisamos as vendas de 2018, o resultado foi:
+
+- **Consumer** continua sendo o segmento com maior volume de vendas, com **50,3%** das vendas da companhia, que equivalem a **45,5%** da receita total da empresa.
+
+##### Receita de Vendas por Segmento de Cliente de 2015 a 2018
+![Vendas por Segmento de Clientes](./images/analyse/pn4/08_Linhas_VendasXSegmentoXAno.png)
+
+Em relação à tendência das vendas ano a ano, concluímos que os três segmentos tiveram estagnação (no caso de **Consumer**) ou redução (no caso de **Corporate** e **Home Office**) das vendas em **2016**. Em 2017 e 2018, todos os segmentos apresentaram crescimento na receita gerada.
+
+##### Vendas por Segmento de Cliente por Categoria em 2018
+
+![Vendas por Segmento de Clientes](./images/analyse/pn4/09_VendasXSegmentoXCategoria_2018.png)
+
+- **Technology**: **Consumer** é o segmento com maior geração de receita de vendas no período. *Os segmentos dentro desta categoria são equilibrados em termos de geração de receita.*
+
+- **Office Supplies**: Os segmentos com maior receita gerada foram **Consumer** e **Corporate**.
+
+- **Furniture**: Por uma ampla margem, o segmento com maior receita gerada foi **Consumer**.
+
+##### Vendas por Segmento de Cliente por Região em 2018
+
+![Vendas por Segmento de Clientes](./images/analyse/pn4/11_VendasXSegmentoXRegiao_2018.png)
+
+O segmento de clientes com maior receita de vendas gerada em cada região foi:
+
+- **WEST**: **Consumer** com **42,7%** da receita total gerada no período.
+- **EAST**: **Consumer** com **45,0%** da receita total gerada no período.
+- **CENTRAL**: **Consumer** com **47,8%** da receita total gerada no período.
+- **SOUTH**: **Consumer** com **49,5%** da receita total gerada no período.
+>>>>>>> 5b2ee83 (Adição de resposta para PN4 ao readme)
