@@ -273,3 +273,71 @@ O segmento de clientes com maior receita de vendas gerada em cada região foi:
 - **SOUTH**: **Consumer** com **49,5%** da receita total gerada no período.
 
 Confira a análise mais detalhada [AQUI](./docs/PN4.md).
+
+### [PN 5](./docs/PN5.md):
+
+Para gerar insights estratégicos à equipe comercial, foram analisadas as variáveis relacionadas aos clientes (ID do cliente e Nome do Cliente) e seus respectivos valores de venda, resultando nas seguintes conclusões:
+
+### Análise de Vendas por Clientes
+
+#### Análise por quantidade de compras
+Foram analisados os clientes pela quantidade de compras realizadas. Os resultados foram os seguintes:
+
+##### Clientes com maior quantidade de Compras Realizadas de 2015 a 2018
+![Vendas por Clientes](./images/analyse/pn5/01_ClientesXQtdeVendas_Total.png)
+
+Os clientes com maior volume de compras no período são:
+1. **William Brown** (35 compras)
+2. **Paul Prost** (34 compras)
+2. **Matt Abelman** (34 compras)
+3. **John Lee** (33 compras)
+
+##### Clientes com maior quantidade de Compras Realizadas em 2018
+![Vendas por Clientes](./images/analyse/pn5/05_ClientesXQtdeVendas_2018.png)
+
+Os clientes com maior volume de compras em 2018 foram:
+1. **Seth Vernon** (20 compras)
+2. **Dean Percer** (19 compras)
+2. **Mick Hernandez** (19 compras)
+2. **John Lee** (19 compras)
+3. **Lena Cacioppo** (17 compras)
+
+#### Análise por receita de vendas gerada
+Foram analisados os clientes pelo valor da receita de vendas gerada. Os resultados foram os seguintes:
+
+##### Clientes com maior Receita de Vendas Gerada de 2015 a 2018
+![Vendas por Clientes](./images/analyse/pn5/03_ClientesXReceitaVendas_Total.png)
+
+Os clientes com maior receita de vendas no período foram:
+1. **Sean Miller** com US$ 25.043,05
+2. **Tamara Chand** com US$ 19.052,22
+3. **Raymond Buch** com US$ 15.117,34
+
+##### Clientes com maior Receita de Vendas Gerada em 2018
+![Vendas por Clientes](./images/analyse/pn5/07_ClientesXReceitaVendas_2018.png)
+
+Os clientes com maior receita de vendas em 2018 foram:
+1. **Raymond Buch** com US$ 14.203,28
+2. **Tom Ashbrook** com US$ 13.723,50
+3. **Hunter Lopez** com US$ 10.522,55
+
+### Análise de Vendas por Clientes por Categoria em 2018
+![Vendas por Clientes por Categoria](./images/analyse/pn5/09_ClientesXReceitaVendasXCategoria_2018.png)
+
+Para orientar os responsáveis de cada categoria, listamos os clientes com maior receita de vendas em 2018:
+
+- **Furniture**: **Seth Vernon** com US$ 5.987,04
+- **Office Supplies**: **Andy Reiter** com US$ 5.517,91
+- **Technology**: **Raymond Buch** com US$ 14.119,92
+
+### Análise de Vendas por Clientes por Região em 2018
+![Vendas por Clientes por Região](./images/analyse/pn5/11_ClientesXReceitaVendasXRegiao_2018.png)
+
+Para orientar os líderes regionais de vendas, identificamos os clientes com maior receita gerada em cada região em 2018:
+
+- **CENTRAL**: **Andy Reiter** com US$ 5.802,70
+- **EAST**: **Tom Ashbrook** com US$ 13.723,50
+- **SOUTH**: **Grant Thornton** com US$ 8.167,42
+- **WEST**: **Raymond Buch** com US$ 14.052,48
+
+Confira a análise mais detalhada [AQUI](./docs/PN5.md).
