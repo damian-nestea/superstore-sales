@@ -1,4 +1,4 @@
-< INÍCIO](../README.md)
+[< INÍCIO](../README.md)
 
 # Pergunta de Negócio 6: Existe sazonalidade nas vendas da empresa? Se sim, quais são os meses de pico em quantidade de vendas e receita?
 

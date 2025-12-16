@@ -417,4 +417,4 @@ Com o objetivo de guiar comercialmente os líderes das equipes comerciais de cad
   - **Dezembro** foi o mês com maior volume de vendas nesta região (**16,4%** do total), seguido por **Novembro (13,9%)** e **Setembro (13,4%)**.
   - Os meses de **Fevereiro (3,0%)** e **Janeiro (3,3%)** foram os que registraram menor volume de vendas no período.
 
-  Confira a análise mais detalhada [aqui](./docs/PN6.md).
+Confira a análise mais detalhada [aqui](./docs/PN6.md).
