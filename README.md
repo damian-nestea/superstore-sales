@@ -105,7 +105,7 @@ Também em 2018, as cidades destacadas de cada região foram:
 
 ![Vendas por Estado](./images/analyse/pn1/18_GraficoTop3_CidadesXVendasXRegiao_2018.png)
 
-Confira a análise mais detalhada [AQUI](./docs/PN1.md).
+Confira a análise mais detalhada [aqui](./docs/PN1.md).
 
 ### [PN 2](./docs/PN2.md):
 Para poder identificar a **Categoria** e **Subcategoria** com a melhor performance em geração de receita de vendas analisamos as variáveis *Category* e *Sub-Category*. Assim encontramos a seguinte informação:
@@ -156,7 +156,7 @@ Com o intuito de guiar os líderes regionais, analisamos a receita de 2018 por s
 
 ![Vendas por Subcategoria por Região](./images/analyse/pn2/14_Grafico_Top3SubcategoriasXRegiao_2018.png)
 
-Confira a análise mais detalhada [AQUI](./docs/PN2.md).
+Confira a análise mais detalhada [aqui](./docs/PN2.md).
 
 ### [PN 3](./docs/PN3.md):
 Para responder a esta pergunta, analisamos a variável Product_Name junto com a variável de valor da venda, para assim identificarmos os produtos mais vendidos na companhia.
@@ -225,7 +225,7 @@ Foram identificados os produtos com maior receita de vendas em cada região no a
 
 - O produto com maior receita de vendas na região **CENTRAL** foi o *GBC DocuBind P400 Electric Binding System*, da categoria **Office Supplies**.
 
-Confira a análise mais detalhada [AQUI](./docs/PN3.md).
+Confira a análise mais detalhada [aqui](./docs/PN3.md).
 
 ### [PN 4](./docs/PN4.md):
 
@@ -272,7 +272,7 @@ O segmento de clientes com maior receita de vendas gerada em cada região foi:
 - **CENTRAL**: **Consumer** com **47,8%** da receita total gerada no período.
 - **SOUTH**: **Consumer** com **49,5%** da receita total gerada no período.
 
-Confira a análise mais detalhada [AQUI](./docs/PN4.md).
+Confira a análise mais detalhada [aqui](./docs/PN4.md).
 
 ### [PN 5](./docs/PN5.md):
 
@@ -340,4 +340,81 @@ Para orientar os líderes regionais de vendas, identificamos os clientes com mai
 - **SOUTH**: **Grant Thornton** com US$ 8.167,42
 - **WEST**: **Raymond Buch** com US$ 14.052,48
 
-Confira a análise mais detalhada [AQUI](./docs/PN5.md).
+Confira a análise mais detalhada [aqui](./docs/PN5.md).
+
+### [PN 6](./docs/PN6.md):
+
+Analisamos o padrão das vendas ao longo do ano para orientar a equipe comercial na definição de estratégias mais eficazes. Os resultados são:
+
+#### Meses com Maior Volume de Vendas de 2015 a 2018
+
+![Volume de Vendas Mensal](./images/analyse/pn6/01_QtdeVendasXMes_Total.png)
+
+Os meses com maior volume de vendas de 2015 a 2018 foram:
+
+1. **Novembro** com **14,8%** do total de vendas.
+2. **Dezembro** com **14,1%** do total de vendas.
+3. **Setembro** com **13,8%** do total de vendas.
+
+#### Meses com Maior Receita de Vendas de 2015 a 2018
+
+![Receita de Vendas Mensal](./images/analyse/pn6/03_ReceitaVendasXMes_Total.png)
+
+Os meses com maior receita de vendas gerada de 2015 a 2018 foram:
+
+1. **Novembro** com **15,5%** do total.
+2. **Dezembro** com **14,2%** do total.
+3. **Setembro** com **13,3%** do total.
+
+#### Trimestre com Maior Volume de Vendas de 2015 a 2018
+
+![Volume de Vendas Trimestral](./images/analyse/pn6/05_QtdeVendasXTrimestre_Total.png)
+
+Foi identificado o trimestre com maior volume de vendas de 2015 a 2018. O ranking de maior a menor foi:
+
+1. **4º trimestre** com **37,1%** do total de vendas.
+2. **3º trimestre** com **28,0%** do total de vendas.
+3. **2º trimestre** com **21,2%** do total de vendas.
+4. **1º trimestre** com **13,7%** do total de vendas.
+
+#### Volume Mensal de Vendas por Categoria de 2015 a 2018
+
+![Volume de Vendas Mensal por Categoria](./images/analyse/pn6/09_QtdeVendasXMesXCategoria_Total.png)
+
+Para orientar os líderes da equipe comercial de cada categoria de produto, foi analisada a sazonalidade das vendas e os resultados foram os seguintes:
+
+- **Furniture**
+  - Os meses com maior volume de vendas nesta categoria são **Dezembro (15,6%)**, **Novembro (15,2%)** e **Setembro (13,2%)**.
+  - O menor volume de vendas para esta categoria se encontra nos meses de **Fevereiro (3,0%)** e **Janeiro (3,8%)**.
+
+- **Office Supplies**
+  - O maior volume de vendas corresponde aos meses de **Setembro e Novembro, ambos com 14,4%** do total das vendas, seguidos por **Dezembro (13,7%)**.
+  - Os meses de **Fevereiro (3,0%)** e **Janeiro (3,7%)** obtiveram o menor volume de vendas.
+
+- **Technology**
+  - O mês de **Novembro** se destaca com o maior volume de vendas (**15,7%** do total), seguido por **Dezembro (13,8%)** e **Setembro (12,6%)**.
+  - O mês de **Fevereiro** tem o menor volume de vendas (**3,3%** do total), seguido por **Janeiro (3,8%)**.
+
+#### Volume Mensal de Vendas por Região de 2015 a 2018
+
+![Volume de Vendas Mensal por Região](./images/analyse/pn6/13_QtdeVendasXMesXRegiao_Total.png)
+
+Com o objetivo de guiar comercialmente os líderes das equipes comerciais de cada região, foi analisada a sazonalidade das vendas e chegamos ao seguinte resultado:
+
+- **Central**
+  - Os meses com maior volume de vendas nesta região foram **Novembro (16,2%)**, **Dezembro (13,1%)** e **Setembro (12,6%)**.
+  - As vendas apresentam uma redução nesta região para os meses de **Fevereiro (3,1%)** e **Janeiro (4,2%)**.
+
+- **East**
+  - O maior volume de vendas foi apresentado nos meses de **Setembro (16,0%)**, **Novembro (15,1%)** e **Dezembro (13,4%)**.
+  - Nos meses de **Fevereiro (2,9%)** e **Janeiro (3,2%)** foi registrado o menor volume de vendas nesta região.
+
+- **South**
+  - O mês de **Novembro** registrou o maior volume de vendas no período (**14,0%** do total), seguido por **Setembro (12,5%)** e **Dezembro (12,1%)**.
+  - O menor volume de vendas no período foi apresentado no mês de **Fevereiro (3,3%)** e no mês de **Janeiro (4,8%)**.
+
+- **West**
+  - **Dezembro** foi o mês com maior volume de vendas nesta região (**16,4%** do total), seguido por **Novembro (13,9%)** e **Setembro (13,4%)**.
+  - Os meses de **Fevereiro (3,0%)** e **Janeiro (3,3%)** foram os que registraram menor volume de vendas no período.
+
+  Confira a análise mais detalhada [aqui](./docs/PN6.md).
