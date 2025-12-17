@@ -14,7 +14,7 @@
   - [PN 4: Vendas por Segmento de Cliente](#pn-4)
   - [PN 5: Vendas por Clientes](#pn-5)
   - [PN 6: Sazonalidade das Vendas](#pn-6)
-- [💡 Principais Insights da Análise](#-principais-insights-da-análise)
+- [💡 Principais Insights da Análise](#principais-insights-da-análise)
 
 ## 🎯 Apresentação do projeto
 Os dados de vendas de uma empresa têm o potencial de gerar insights valiosos para a equipe comercial. Para concretizar esse potencial, no entanto, é necessária uma **análise criteriosa que transforme dados brutos em informações acionáveis**. A <u>Análise Exploratória de Dados (EDA)</u> é uma abordagem excepcional para extrair esse valor. Este projeto, desenvolvido no Excel, tem como objetivo aplicar a EDA a um conjunto de dados de vendas para **identificar tendências, oportunidades e áreas de melhoria**.
