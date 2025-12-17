@@ -1,4 +1,20 @@
-# 📊 Análise de dados: Vendas de um Hipermercado
+# 📊 Análise de dados: Vendas de um 
+
+## 📑 Índice do Projeto
+- [🎯 Apresentação do projeto](#-apresentação-do-projeto)
+- [📁 Escolha do Dataset](#-escolha-do-dataset)
+- [🎯 Objetivo Geral da Análise](#-objetivo-geral-da-análise)
+- [❓ Perguntas de Negócio](#-perguntas-de-negócio)
+- [🔄 Processo de ETL](#-processo-de-etl)
+- [🔍 Análise Inicial dos Dados](#-análise-inicial-dos-dados)
+- [📈 Análise dos Dados](#-análise-dos-dados)
+  - [PN 1: Vendas por Localização](#pn-1)
+  - [PN 2: Vendas por Categoria e Subcategoria](#pn-2)
+  - [PN 3: Vendas por Produto](#pn-3)
+  - [PN 4: Vendas por Segmento de Cliente](#pn-4)
+  - [PN 5: Vendas por Clientes](#pn-5)
+  - [PN 6: Sazonalidade das Vendas](#pn-6)
+- [💡 Principais Insights da Análise](#-principais-insights-da-análise)
 
 ## 🎯 Apresentação do projeto
 Os dados de vendas de uma empresa têm o potencial de gerar insights valiosos para a equipe comercial. Para concretizar esse potencial, no entanto, é necessária uma **análise criteriosa que transforme dados brutos em informações acionáveis**. A <u>Análise Exploratória de Dados (EDA)</u> é uma abordagem excepcional para extrair esse valor. Este projeto, desenvolvido no Excel, tem como objetivo aplicar a EDA a um conjunto de dados de vendas para **identificar tendências, oportunidades e áreas de melhoria**.
@@ -418,3 +434,35 @@ Com o objetivo de guiar comercialmente os líderes das equipes comerciais de cad
   - Os meses de **Fevereiro (3,0%)** e **Janeiro (3,3%)** foram os que registraram menor volume de vendas no período.
 
 Confira a análise mais detalhada [aqui](./docs/PN6.md).
+
+## Principais Insights da Análise
+
+### 📍 Vendas por Localização
+Para **manter a alta geração de receita na região Oeste (West)**, é essencial concentrar nela boa parte dos recursos e esforços comerciais. Paralelamente, deve-se **intensificar o investimento em marketing na região Leste (East)**, que demonstra **crescimento e potencial**.
+
+Por outro lado, é fundamental **avaliar o potencial de expansão nas regiões Sul e Central (South e Central)**, analisando os motivos de seu desempenho mais modesto. Caso necessário, **estratégias de marketing e comerciais devem ser ajustadas** para estimular o crescimento nessas áreas. Em nível estadual, **California e New York, como principais geradores de receita, devem continuar recebendo atenção prioritária.**
+
+### 📦 Vendas por Categoria e Subcategoria
+A categoria de **Tecnologia (Technology)** é a principal responsável pela geração de receita e possui o maior ticket médio. Portanto, **priorizar o investimento em estoque e em campanhas de marketing para ela é uma ação estratégica**, com foco especial nas subcategorias de **Telefones (Phones)** e **Copiadoras (Copiers)**.
+
+Outras subcategorias-chave que merecem destaque no planejamento são **Fichários (Binders)** e **Armazenamento (Storage)**, da categoria de Materiais de Escritório (Office Supplies), e **Cadeiras (Chairs)** e **Mesas (Tables)**, da categoria de Móveis (Furniture).
+
+### 📅 Sazonalidade das Vendas
+O **4º trimestre** concentra o pico anual de vendas e receita. Assim, **é crucial antecipar o aumento de estoque** antes desse período. As **campanhas de marketing devem ser potencializadas a partir de Setembro**, criando um funil de vendas que aproveite a alta demanda até Dezembro.
+
+### 👥 Segmentação de Clientes
+O segmento de **Consumidores (Consumer)**, que é o que mais compra, também é o que possui o **menor ticket médio**. Isso representa uma grande oportunidade. A estratégia deve ser **fidelizar esses clientes e, por meio de marketing direcionado, incentivar compras de maior valor**, aumentando significativamente sua contribuição para a receita.
+
+Além disso, **campanhas B2B específicas devem ser desenvolvidas para atrair mais clientes Corporativos (Corporate)**, um segmento com ticket médio mais alto e grande potencial de crescimento.
+
+### 🏆 Foco no Tipo de Produto
+A estratégia comercial deve **destacar e promover ativamente os produtos "campeões" de alto valor**, como a **Canon imageCLASS 2200 Advanced Copier**. Estes itens, mesmo com menor volume de vendas, são os grandes **geradores de receita**.
+
+Já para os **produtos de alta rotatividade** (como Grampos/Staples), a estratégia deve ser **otimizar custos de aquisição e logística** para **maximizar a margem de lucro**, garantindo que o alto volume se traduza em maior rentabilidade para a companhia.
+
+> **📝 Observação** Para uma análise mais precisa, é fundamental identificar qual é a margem de lucro dos produtos para assim revelar a rentabilidade real dos diferentes produtos da companhia. 
+
+### 👑 Comportamento dos Melhores Clientes
+É vital **diferenciar a gestão dos clientes** baseando-se no **valor que geram**:
+*   Para os **clientes de alto valor** (como Sean Miller), criar **programas VIP** com atendimento especializado e ofertas exclusivas, focando na **retenção desses clientes**.
+*   Para os **clientes mais frequentes** (como William Brown), **estudar seu perfil de compra** e criar estratégias (como programas de fidelidade por pontos) **para elevar seu ticket médio**, transformando lealdade em compras com maior valor.
