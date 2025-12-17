@@ -1,4 +1,4 @@
-# 📊 Análise de dados: Vendas de um 
+# 📊 Análise de dados: Vendas de um Hipermercado
 
 ## 📑 Índice do Projeto
 - [🎯 Apresentação do projeto](#-apresentação-do-projeto)
